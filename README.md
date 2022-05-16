@@ -1,3 +1,5 @@
+[![Build Status](https://syedusamamazhar.visualstudio.com/pipelines-dotnet-core/_apis/build/status/syedusamamazhar.pipelines-dotnet-core?branchName=master)](https://syedusamamazhar.visualstudio.com/pipelines-dotnet-core/_build/latest?definitionId=5&branchName=master)
+
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
